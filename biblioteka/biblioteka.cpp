@@ -7,6 +7,7 @@
 #include <cmath>
 #include <cstdlib>
 #include <random>
+#include <algorithm>
 using namespace std;
 
 vector<int> ostatnie;
@@ -22,6 +23,8 @@ string ekstrakcja(int numertabelilinii, int kolumna)
         tablicalinii.push_back(linia);
     }
 
+    if (numertabelilinii >= tablicalinii.size()) return "";
+
     vector<string> element;
     size_t start = 0;
     size_t koniec = tablicalinii[numertabelilinii].find("|");
@@ -34,6 +37,8 @@ string ekstrakcja(int numertabelilinii, int kolumna)
     }
 
     element.push_back(tablicalinii[numertabelilinii].substr(start));
+
+    if (kolumna >= element.size()) return "";
     return element[kolumna];
 }
 
@@ -586,6 +591,33 @@ void przeczytane(float llinii, int tryb)
     }
 }
 
+void sortowaniestron(int llinii)
+{
+    vector<vector<int>> rozsortowane;
+    int i = 0;
+
+    while (i < llinii)
+    {
+        int id = string2int(ekstrakcja(i, 0));
+        int strony = string2int(ekstrakcja(i, 5));
+        rozsortowane.push_back({ id, strony });              // rozsortowane = {ID, l. stron}, {ID, l.stron}...
+        i = i + 1;
+    }
+
+    sort(rozsortowane.begin(), rozsortowane.end(),
+        [](const vector<int>& a, const vector<int>& b) {
+            return a[1] > b[1];
+        });
+
+    ostatnie.clear();
+    i = 0;
+    while (i < rozsortowane.size())
+    {
+        ostatnie.push_back(rozsortowane[i][0]);
+        i++;
+    }
+}
+
 int main()
 {
     setlocale(LC_ALL, "");
@@ -675,7 +707,46 @@ start:
         }
         if (w0 == 1)
         {
+            punktsortu:
             cout << "\nWybierz opcję sortowania:" << endl;
+            cout << "1 - ID\t 2 - Długość\t 0 - Powrót" << endl;
+            int w4;
+            cin >> w4;
+
+            if (w4 == 0)
+            {
+                goto start;
+            }
+            if (w4 == 1)
+            {
+                for (int xnwm = 0; xnwm < llinii; xnwm++)
+                {
+                    cout << setw(4) << left << ekstrakcja(xnwm, 0)
+                        << setw(80) << left << ekstrakcja(xnwm, 1)
+                        << setw(84) << left << ekstrakcja(xnwm, 2)
+                        << setw(24) << left << ekstrakcja(xnwm, 3)
+                        << setw(32) << left << ekstrakcja(xnwm, 4)
+                        << setw(8) << left << ekstrakcja(xnwm, 5)
+                        << setw(16) << left << ekstrakcja(xnwm, 6)
+                        << setw(8) << left << ekstrakcja(xnwm, 7)
+                        << "\n";
+                }
+                goto punktsortu;
+            }
+            if (w4 == 2)
+            {
+                sortowaniestron(llinii);
+            }
+
+
+            naglowek();
+            size_t i = 0;
+            while (i < ostatnie.size())
+            {
+                wypisz(ostatnie[i]-1);
+                i = i + 1;
+            }
+            goto punktsortu;
         }
         if (w0 == 2)
         {
