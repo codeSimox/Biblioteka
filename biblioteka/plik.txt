@@ -1,0 +1,213 @@
+1|George Orwell|Rok 1984|Sci-Fi|MUZA|353|TAK|Ksi¹¿ka
+2|S³awomir Koper|SpowiedŸ Œmig³ego|Historyczne|Bellona|294|TAK|Ksi¹¿ka
+3|Kacper Pitala|Jak to wyjaœniæ?|Popularno-Naukowe|OTWARTE|318|TAK|Ksi¹¿ka
+4|Stephen King & Leonard Mlodinow|Smêtarz dla zwierzaków|Horror|Prószyñski i S-ka|413|TAK|Ksi¹¿ka
+5|Sun Tzu|Sztuka Wojny|Literatura Faktu|HELION|308|TAK|Ksi¹¿ka
+6|Stephen Hawking|Jeszcze krótsza historia czasu|Popularno-Naukowe|Zysk i S-ka|224|TAK|Ksi¹¿ka
+7|Bogus³aw Wo³oszañski|Zabiæ Amerykê|Historyczne|Wo³oszañski|333|TAK|Ksi¹¿ka
+8|Bogus³aw Wo³oszañski|Wiek Krwi|Historyczne|Wo³oszañski|813|TAK|Ksi¹¿ka
+9|Philip Pomper|Brat Lenina|Historyczne|Wyd. Dolnoœl¹skie|261|NIE|Ksi¹¿ka
+10|Edgar Allan Poe|Opowiadania prawie wszystkie|Fantastyka|Marginesy|587|NIE|Ksi¹¿ka
+11|Piotr Gursztyn|Ribbentrop-Beck : Czy pakt Polska-Niemcy by³ mo¿liwy?|Historyczne|Wyd. Dolnoœl¹skie|367|NIE|Ksi¹¿ka
+12|Wojciech Drewniak|Historia Bez Cenzury (I)|Historyczne|Znak|301|TAK|Ksi¹¿ka
+13|Dmitrij G³uchowski|Uniwersum Metro 2033 : Metro 2033 (I)|Postapo|Insignis|579|TAK|Ksi¹¿ka
+14|Dmitrij G³uchowski|Uniwersum Metro 2033 : Metro 2034 (II)|Postapo|Insignis|387|TAK|Ksi¹¿ka
+15|Dmitrij G³uchowski|Uniwersum Metro 2033 : Metro 2035 (III)|Postapo|Insignis|548|TAK|Ksi¹¿ka
+16|Rick Riordan|Kroniki Rodu Kane : Czerwona Piramida (I)|Fantastyka|Galeria Ksi¹¿ki|543|TAK|Ksi¹¿ka
+17|Rick Riordan|Kroniki Rodu Kane : Ognisty Tron (II)|Fantastyka|Galeria Ksi¹¿ki|461|TAK|Ksi¹¿ka
+18|Rick Riordan|Kroniki Rodu Kane : Cieñ Wê¿a (III)|Fantastyka|Galeria Ksi¹¿ki|419|TAK|Ksi¹¿ka
+19|Chris Columbus & Ned Vizzini|Dom Tajemnic (I)|Fantastyka|Znak|506|TAK|Ksi¹¿ka
+20|Chris Columbus & Ned Vizzini|Dom Tajemnic : Starcie Potworów (II)|Fantastyka|Znak|474|TAK|Ksi¹¿ka
+21|Chris Columbus & Ned Vizzini & Chris Rylander|Dom Tajemnic : Starcie Œwiatów (III)|Fantastyka|Znak|512|TAK|Ksi¹¿ka
+22|Scott Cawthon & Kira Breed-Wrisley|Five Nights At Freddy's : Srebrne Oczy (I)|Horror|Feeria Young|357|TAK|Ksi¹¿ka
+23|Scott Cawthon & Kira Breed-Wrisley|Five Nights At Freddy's : Zwyrodniali (II)|Horror|Feeria Young|278|TAK|Ksi¹¿ka
+24|Scott Cawthon & Kira Breed-Wrisley|Five Nights At Freddy's : Czwart Schowek (III)|Horror|Feeria Young|327|TAK|Ksi¹¿ka
+25|Scott Cawthon|Five Nights At Freddy's : The Freddy Files|Poradnik|Feeria Young|161|TAK|Ksi¹¿ka
+26|Scott Cawthon|Five Nights At Freddy's : Dziennik Przetrwania|Poradnik|Feeria Young|112|TAK|Ksi¹¿ka
+27|Scott Cawthon|Five Nights At Freddy's : The Ultimate Guide|Poradnik|Feeria Young|288|NIE|Ksi¹¿ka
+28|Scott Cawthon & Elley Cooper|Fazbear Frights : W pu³apce (I)|Horror|Feeria Young|197|TAK|Ksi¹¿ka
+29|Scott Cawthon & Andrea Waggener & Carly Anne West|Fazbear Frights : Aport (II)|Horror|Feeria Young|272|TAK|Ksi¹¿ka
+30|Scott Cawthon & Elley Cooper & Andrea Waggener|Fazbear Frights : 1:35 w nocy (III)|Horror|Feeria Young|277|TAK|Ksi¹¿ka
+31|Scott Cawthon & Elley Cooper & Andrea Waggener & Kelly Parra|Fazbear Frights : PodejdŸ Bli¿ej (IV)|Horror|Feeria Young|239|TAK|Ksi¹¿ka
+32|Scott Cawthon & Andrea Waggener & Kelly Parra|Fazbear Frights : Kos (V)|Horror|Feeria Young|280|TAK|Ksi¹¿ka
+33|Scott Cawthon & Elley Cooper & Andrea Waggener|Fazbear Frights : Odwiedziny Królika (VI)|Horror|Feeria Young|240|TAK|Ksi¹¿ka
+34|Scott Cawthon & Elley Cooper & Andrea Waggener|Fazbear Frights : Klify (VII)|Horror|Feeria Young|238|TAK|Ksi¹¿ka
+35|Scott Cawthon & Andrea Waggener|Fazbear Frights : S³odka Angel (VIII)|Horror|Feeria Young|295|TAK|Ksi¹¿ka
+36|Scott Cawthon & Elley Cooper|Fazbear Frights : Lalkarz (IX)|Horror|Feeria Young|216|TAK|Ksi¹¿ka
+37|Scott Cawthon & Andrea Waggener|Fazbear Frights : Znajoma twarz (X)|Horror|Feeria Young|295|TAK|Ksi¹¿ka
+38|Scott Cawthon & Elley Cooper & Andrea Waggener|Fazbear Frights : Prankster (XI)|Horror|Feeria Young|246|NIE|Ksi¹¿ka
+39|Rick Riordan|Percy Jackson i Bogowie Olimpijscy : Z³odziej Pioruna (I)|Fantastyka|Galeria Ksi¹¿ki|358|TAK|Ksi¹¿ka
+40|Rick Riordan|Percy Jackson i Bogowie Olimpijscy : Morze Potworów (II)|Fantastyka|Galeria Ksi¹¿ki|276|TAK|Ksi¹¿ka
+41|Rick Riordan|Percy Jackson i Bogowie Olimpijscy : Kl¹twa Tytana (III)|Fantastyka|Galeria Ksi¹¿ki|308|TAK|Ksi¹¿ka
+42|Rick Riordan|Percy Jackson i Bogowie Olimpijscy : Bitwa w Labiryncie (IV)|Fantastyka|Galeria Ksi¹¿ki|361|TAK|Ksi¹¿ka
+43|Rick Riordan|Percy Jackson i Bogowie Olimpijscy : Ostatni Olimpijczyk (V)|Fantastyka|Galeria Ksi¹¿ki|373|TAK|Ksi¹¿ka
+44|J. K. Rowling|Harry Potter i Kamieñ Filozoficzny (I)|Fantastyka|Media Rodzina|327|TAK|Ksi¹¿ka
+45|J. K. Rowling|Harry Potter i Komnata Tajemnic (II)|Fantastyka|Media Rodzina|357|TAK|Ksi¹¿ka
+46|J. K. Rowling|Harry Potter i Wiêzieñ Azkabanu (III)|Fantastyka|Media Rodzina|459|TAK|Ksi¹¿ka
+47|J. K. Rowling|Harry Potter i Czara Ognia (IV)|Fantastyka|Media Rodzina|767|TAK|Ksi¹¿ka
+48|J. K. Rowling|Harry Potter i Zakon Feniksa (V)|Fantastyka|Media Rodzina|960|TAK|Ksi¹¿ka
+49|J. K. Rowling|Harry Potter i Ksi¹¿e Pó³krwi (VI)|Fantastyka|Media Rodzina|704|TAK|Ksi¹¿ka
+50|J. K. Rowling|Harry Potter i Insygnia Œmierci (VII)|Fantastyka|Media Rodzina|762|TAK|Ksi¹¿ka
+51|J. K. Rowling & John Tiffany & Jack Thorne|Harry Potter i Przeklête Dziecko (VIII)|Fantastyka|Media Rodzina|366|TAK|Ksi¹¿ka
+52|Agata Ga³czyk|Popularny s³ownik poprawnej polszczyzny|S³ownik|ARTI|304|TAK|Ksi¹¿ka
+53|Andrzej Markowski|S³ownik poprawnej polszczyzny|S³ownik|Langenscheidt|419|TAK|Ksi¹¿ka
+54|Miros³awa Litmanowicz|Szachy : podrêcznik dla dzieci (II)|Podrêcznik|M³odzie¿owa Agencja Wydawnicza|93|TAK|Ksi¹¿ka
+55|Miros³awa Litmanowicz|Szachy : podrêcznik dla dzieci (III)|Podrêcznik|M³odzie¿owa Agencja Wydawnicza|143|TAK|Ksi¹¿ka
+56|Maciej Zawacki|Fizyka : Rozwi¹zywanie zadañ w Excelu - Æwiczenia praktyczne|Podrêcznik|HELION|111|TAK|Ksi¹¿ka
+57|Andrzej Obecny|Matematyka w Excelu dla szkó³ œrednich - Æwiczenia praktyczne|Podrêcznik|HELION|139|TAK|Ksi¹¿ka
+58|£ucja Mentzen & Adela Œwi¹tek|Miniatury Matematyczne (52)|Zbiór Zadañ|AKSJOMAT|57|TAK|Ksi¹¿ka
+59|£ucja Mentzen & Adela Œwi¹tek|Miniatury Matematyczne (56)|Zbiór Zadañ|AKSJOMAT|56|TAK|Ksi¹¿ka
+60|£ucja Mentzen & Adela Œwi¹tek|Miniatury Matematyczne (60)|Zbiór Zadañ|AKSJOMAT|56|TAK|Ksi¹¿ka
+61|Piotr Jêdrzejewicz & Andrzej Sendlewski & Agnieszka Krause|Miniatury Matematyczne (78)|Zbiór Zadañ|AKSJOMAT|64|TAK|Ksi¹¿ka
+62|Jerzy Zezulkin & Grzegorz Murawski|Szko³a Taktyki Szachowej : Pierwszy rok nauczania - czêœæ 1|Zbiór Zadañ|Caissa|68|TAK|Ksi¹¿ka
+63|Jerzy Zezulkin|Szko³a Taktyki Szachowej : Pierwszy-drugi rok nauczania|Zbiór Zadañ|Caissa|92|TAK|Ksi¹¿ka
+64|Franciszek Grucza|Dein Deutsch|S³ownik|Graf-Punkt|159|TAK|Ksi¹¿ka
+65|Marek Kasprzak|Ilustrowany s³ownik geograficzny|Popularno-Naukowe|Wiedza|274|TAK|Ksi¹¿ka
+66|Agnieszka No¿yñska-Demianiuk|Ilustrowany s³ownik ortograficzny|S³ownik|IBIS|175|TAK|Ksi¹¿ka
+67|Norman Davies|Bo¿e Igrzysko - Historia Polski|Historyczne|Znak|1231|NIE|Ksi¹¿ka
+68|Norman Davies|Powstanie '44|Historyczne|Znak|959|NIE|Ksi¹¿ka
+69|Tomasz Wy¿yñski|Podrêczny s³ownik idiomów angielskich|S³ownik|Œwiat Ksi¹¿ki|419|TAK|Ksi¹¿ka
+70|Les³aw Haliñski|Metallica - Antologia tekstów i przek³adów|Muzyka|In Rock|360|TAK|Ksi¹¿ka
+71|Andrzej Sapkowski|WiedŸmin : Ostatnie ¯yczenie (I)|Fantastyka|NOWA|332|TAK|Ksi¹¿ka
+72|Andrzej Sapkowski|WiedŸmin : Miecz Przeznaczenia (II)|Fantastyka|-|400|TAK|Ebook
+73|Andrzej Sapkowski|WiedŸmin : Krew Elfów (III)|Fantastyka|-|339|TAK|Ebook
+74|Andrzej Sapkowski|WiedŸmin : Czas Pogardy (IV)|Fantastyka|-|367|TAK|Ebook
+75|Andrzej Sapkowski|WiedŸmin : Chrzest Ognia (V)|Fantastyka|-|381|TAK|Ebook
+76|Andrzej Sapkowski|WiedŸmin : Wie¿a Jaskó³ki (VI)|Fantastyka|-|488|TAK|Ebook
+77|Andrzej Sapkowski|WiedŸmin : Pani Jeziora (VII)|Fantastyka|-|595|TAK|Ebook
+78|Andrzej Sapkowski|WiedŸmin : Sezon Burz (VIII)|Fantastyka|-|404|TAK|Ebook
+79|Andrzej Sapkowski|WiedŸmin : Rozdro¿e Kruków (IX)|Fantastyka|NOWA|292|TAK|Ksi¹¿ka
+80|Stanis³aw Lem|Solaris|Sci-Fi|Wyd. Literackie|337|TAK|Ksi¹¿ka
+81|Margot Spohn & Roland Spohn|Jakie to drzewo?|Encyklopedia|Œwiat Ksi¹¿ki|255|TAK|Ksi¹¿ka
+82|Jan Parandowski|Mitologia|Historyczne|Wyd. Poznañskie|263|TAK|Ksi¹¿ka
+83|Antoni Go³ubiew|Boles³aw Chrobry : Puszcza (I)|Historyczne|Œwiat Ksi¹¿ki|542|NIE|Ksi¹¿ka
+84|J. R. R. Tolkien|W³adca Pierœcieni : Bractwo Pierœcienia (I)|Fantastyka|Bertelsmann|599|TAK|Ksi¹¿ka
+85|J. R. R. Tolkien|W³adca Pierœcieni : Dwie Wie¿e (II)|Fantastyka|Bertelsmann|501|TAK|Ksi¹¿ka
+86|J. R. R. Tolkien|W³adca Pierœcieni : Powrót Króla (III)|Fantastyka|Bertelsmann|564|TAK|Ksi¹¿ka
+87|George R. R. Martin|Pieœñ Lodu i Ognia : Gra o Tron (I)|Fantastyka|Zysk i S-ka|778|NIE|Ksi¹¿ka
+88|Tillmann Bendikowski|Prze¿yj rok w œredniowieczu|Historyczne|Znak|444|NIE|Ksi¹¿ka
+89|Martin Seymour-Smith|100 najwa¿niejszych ksi¹¿ek œwiata|Popularno-Naukowe|Œwiat Ksi¹¿ki|543|NIE|Ksi¹¿ka
+90|Alfred Znamierowski|Insygnia, Symbole i Herby Polskie|Historyczne|Œwiat Ksi¹¿ki|215|TAK|Ksi¹¿ka
+91|Jean Baptiste Declaour|Charaktery - Jak poznaæ cz³owieka od pierwszego spojrzenia?|Psychologiczne|Œwiat Ksi¹¿ki|237|NIE|Ksi¹¿ka
+92|J. R. R. Tolkien|Silmarillon|Fantastyka|Amber|405|NIE|Ksi¹¿ka
+93|Anton E. Hartink|Encyklopedia no¿y|Encyklopedia|Bellona|352|TAK|Ksi¹¿ka
+94|Michael Jackson|Tyskie vademecum piwa|Encyklopedia|MUZA|96|TAK|Ksi¹¿ka
+95|Michele Lecreux & Celia Gallais & Clemence Roux de Luze|Ma³y Odkrywca|Poradnik|Olesiejuk|215|TAK|Ksi¹¿ka
+96|Grzegorz Kasdepke|Kuba i Buba w szpitalu czyli o prawach dziecka-pacjenta niemal wszystko|Bajki|Literatura|144|TAK|Ksi¹¿ka
+97|Andrzej Olejnik|Armagedon - scenariusze koñca œwiata|Popularno-Naukowe|Fronda|351|TAK|Ksi¹¿ka
+98|Cavan Scott & Ilas Arahovitis|Angry Birds - Oficjalny Przewodnik|Przewodnik|Papilon|176|TAK|Ksi¹¿ka
+99|Sue Becklake|Kosmos - niezbêdnik m³odego odkrywcy|Poradnik|JEDNOŒÆ|95|TAK|Ksi¹¿ka
+100|Anna Skrok|Biblioteczka Wiedzy - Zwierzêta naszych rzek, jezior i stawów|Encyklopedia|IBIS|64|TAK|Ksi¹¿ka
+101|Joanna Szarek & Jaros³aw Szarek|Historia dla najm³odszych : Cud nad wis³¹ (III)|Historyczne|Rafael|35|TAK|Ksi¹¿ka
+102|Emilie Beaumont|Œwiat w obrazkach - Zwierzêta|Encyklopedia|Olesiejuk|124|TAK|Ksi¹¿ka
+103|Stephen O'Brien|Minecraft - Strategie dla zaawansowanych graczy|Poradnik|HELION|262|TAK|Ksi¹¿ka
+104|Zbigniew Stein|Maszyny Elektryczne|Podrêcznik|WSiP|407|NIE|Ksi¹¿ka
+105|Vic Parker|200 bajek Ezopa|Bajki|JEDNOŒÆ|512|TAK|Ksi¹¿ka
+106|Anna Kraszewska & Angelika Rejs|O Koperniku zadañ bez liku|Zbiór Zadañ|MWiM w Olsztynie|17|TAK|Ksi¹¿ka
+107|Wojciech Bonowicz & Anna Onchimowska & Marcin Wicha|Nowe przygody Bolka i Lolka - Urodziny|Bajki|Znak|221|TAK|Ksi¹¿ka
+108|A. A. Milne|Chatka Puchatka|Bajki|Ksi¹¿ka i Wiedza|152|TAK|Ksi¹¿ka
+109|Gerlinde Ortner|Bajki na dobry sen - Poradnik dla rodziców dzieci od 3 do 9 lat|Poradnik|Œwiat Ksi¹¿ki|224|TAK|Ksi¹¿ka
+110|Marcin PrzewoŸniak|Angry Birds - Superœmieszne ¿arciki|¯arty|Papilon|192|TAK|Ksi¹¿ka
+111|Ignacy Krasicki|Monachomachia|Poemat|Ossolineum|57|NIE|Ksi¹¿ka
+112|Wojciech Pykosz & Lech Bugajski|Lektury licealisty|Podrêcznik|Ossolineum|222|TAK|Ksi¹¿ka
+113|Wojciech Pykosz & Lech Bugajski|Lektury licealisty|Podrêcznik|Ossolineum|223|TAK|Ksi¹¿ka
+114|Stanis³aw Wyspiañski|Wesele|Dramat|Wyd. Literackie|308|TAK|Ksi¹¿ka
+115|W³adys³aw Stanis³aw Reymont|Ch³opi|Powieœæ|GREG|720|TAK|Ksi¹¿ka
+116|Sofokles|Antygona|Tragedia|Ossolineum|109|TAK|Ksi¹¿ka
+117|Antony Beevor|Walka o Hiszpaniê 1936-1939 - Pierwsze starcie totalitaryzmów|Historyczne|Znak|628|NIE|Ksi¹¿ka
+118|Jeffray Cooper|Koszmar z Elm Street (I)|Horror|Phantom Press International|96|TAK|Ksi¹¿ka
+119|Jeffray Cooper|Koszmar z Elm Street : Zemsta Freddy'ego (II)|Horror|Phantom Press International|97|TAK|Ksi¹¿ka
+120|Jeffray Cooper|Koszmar z Elm Street : Wojownicy Snów (III)|Horror|Phantom Press International|96|TAK|Ksi¹¿ka
+121|Jeffray Cooper|Koszmar z Elm Street : Mistrz Snów (IV)|Horror|Phantom Press International|96|TAK|Ksi¹¿ka
+122|Jeffray Cooper|Koszmar z Elm Street : Dziecko Snów (V)|Horror|Phantom Press International|96|TAK|Ksi¹¿ka
+123|Jeffray Cooper|Koszmar z Elm Street : Œnijmy Dalej (VI)|Horror|Phantom Press International|96|TAK|Ksi¹¿ka
+124|W. W. Sawyer|Matematyka nauk¹ przyjemn¹|Popularno-Naukowe|Wiedza Powszechna|281|TAK|Ksi¹¿ka
+125|Helena Zaworska|Granica Zofii Na³kowskiej|Opracowanie|WSiP|112|TAK|Ksi¹¿ka
+126|Seweryna Szmaglewska|Czarne Stopy|Powieœæ|Wyd. Œl¹sk|252|TAK|Ksi¹¿ka
+127|Juliusz Grodziñski|Tajemniczy £owca Szczurów|Powieœæ|Pojezierze|261|NIE|Ksi¹¿ka
+128|Mieczys³aw Inglot|Œluby panieñskie Aleksandra Fredry|Opracowanie|WSiP|104|TAK|Ksi¹¿ka
+129|Juliusz S³owacki|Kordian|Dramat|Ossolineum|153|TAK|Ksi¹¿ka
+130|Geronimo Stilton|Gry i zabawy na wakacje|Poradnik|Olesiejuk|126|TAK|Ksi¹¿ka
+131|Dmitrij G³uchowski|FUTU.RE|Sci-Fi|Insignis|635|TAK|Ksi¹¿ka
+132|Barbara Reymer|Ma³y Poradnik Mechanika (I)|Podrêcznik|WNT Warszawa|686|NIE|Ksi¹¿ka
+133|Barbara Reymer|Ma³y Poradnik Mechanika (II)|Podrêcznik|WNT Warszawa|632|NIE|Ksi¹¿ka
+134|Henryk Górski & Stanis³aw Postek|Podrêczny Atlas Œwiata|Atlas|Bertelsmann|212|TAK|Ksi¹¿ka
+135|W³adys³aw Latek|Maszyny elektryczne w pytaniach i odpowiedziach|Podrêcznik|WNT Warszawa|417|NIE|Ksi¹¿ka
+136|James Trefil|1001 spotkañ z nauk¹|Popularno-Naukowe|Œwiat Ksi¹¿ki|383|TAK|Ksi¹¿ka
+137|Anne Geddes|Moje pierwsze piêæ lat - pamiêtnik ma³ego dziecka|-|Edycja Œwiêtego Paw³a|90|TAK|Ksi¹¿ka
+138|Jacek Sobczak|Wybrane zagadnienia ustawy o powszechnym obowi¹zku obrony RP|Przewodnik|Park|149|TAK|Ksi¹¿ka
+139|Jerzy Lewczuk|Akwarium Rodzinne|Poradnik|PWRiL|107|TAK|Ksi¹¿ka
+140|Jerzy Lewczuk|Zak³adamy Akwarium|Poradnik|PWRiL|118|TAK|Ksi¹¿ka
+141|Andrzej Bzdêga & Jan Chodera & Stefan Kubica|Podrêczny s³ownik polsko-niemiecki|S³ownik|Wiedza Powszechna|1020|TAK|Ksi¹¿ka
+142|Jan Chodera & Stefan Kubica|Podrêczny s³ownik niemiecko-polski|S³ownik|Wiedza Powszechna|1032|TAK|Ksi¹¿ka
+143|Iwan Petrowicki|Ryby akwariowe|Encyklopedia|Delta|224|TAK|Ksi¹¿ka
+144|Geoffrey Parker & Andreas Dorpalen|Podrêczny atlas historii powszechnej|Atlas|Œwiat Ksi¹¿ki|184|TAK|Ksi¹¿ka
+145|Dan Gookin|Komputer|Przewodnik|IDG Books Worldwide|356|TAK|Ksi¹¿ka
+146|Justyna B³a¿ejowska|Harcersk¹ drog¹ do niepodleg³oœci|Historyczne|Arcana|541|TAK|Ksi¹¿ka
+147|Micha³ Peter & Marian Wolniewicz|Pismo Œwiête - Stary i Nowy Testament|Religia|Ksiêgarnia Œwiêtego Wojciecha|1814|TAK|Ksi¹¿ka
+148|Agnieszka Wêdrychowska|Atlas - Polska, Europa, Œwiat|Atlas|Demart|296|TAK|Ksi¹¿ka
+149|Stanis³aw Frank|Encyklopedia ryb akwariowych|Encyklopedia|Delta|351|TAK|Ksi¹¿ka
+150|Irena Tuwim|Kogucik z³oty grzebyczek|Bajki|Ksi¹¿ka i Wiedza|16|TAK|Ksi¹¿ka
+151|Piotr Rosikoñ|Encyklopedia najm³odszych - Czy wiesz…|Encyklopedia|SBM|192|TAK|Ksi¹¿ka
+152|Kornel Karbowniczek|Dinozaury|Encyklopedia|ARTI|32|TAK|Ksi¹¿ka
+153|Dorota Prasu³a|Uk³ad S³oneczny|Encyklopedia|ARTI|32|TAK|Ksi¹¿ka
+154|Ma³gorzata Pilecka & Maria Kozyra|Jaœ i ³odyga fasoli|Bajki|ARTI|36|TAK|Ksi¹¿ka
+155|Ewa Markowska-Reutt|Muzyka Taniec Teatr|Encyklopedia|ARTI|32|TAK|Ksi¹¿ka
+156|Justyna Kubacka|Atlas zwierz¹t œwiata dla dzieci|Encyklopedia|IBIS|40|TAK|Ksi¹¿ka
+157|Micha³ Kamiñski|Niech ¿yje sport - Dyscypliny sportowe w pigu³ce|Encyklopedia|Zielona Sowa|32|TAK|Ksi¹¿ka
+158|Przemys³aw RudŸ|Cuda Wszechœwiata|Encyklopedia|Imagine|112|TAK|Ksi¹¿ka
+159|Jaros³aw Górski & Dawid Lasociñski & Izabela Wojtyczka & Pawe³ Wojtyczka|Podró¿e Marzeñ - Œwiat|Encyklopedia|Powerbook|96|TAK|Ksi¹¿ka
+160|Studio Feniks|Miasta Œwiata|Przewodnik|Feniks|64|TAK|Ksi¹¿ka
+161|Rob Lloyd Jones|The strange case of Dr. Jekyll & Mr. Hyde|Kryminalne|Usborne Young Reading|64|NIE|Ksi¹¿ka
+162|Scott Cawthon & Andrea Waggener & Kelly Parra|Tales from The Pizzaplex : Gra Lally'ego (I)|Horror|Feeria Young|296|TAK|Ksi¹¿ka
+163|Scott Cawthon & Elley Cooper & Andrea Waggener|Tales from The Pizzaplex : Happs (II)|Horror|Feeria Young|287|TAK|Ksi¹¿ka
+164|Scott Cawthon & Andrea Waggener & Kelly Parra|Tales from The Pizzaplex : Hipnofobia (III)|Horror|Feeria Young|286|TAK|Ksi¹¿ka
+165|Scott Cawthon & Andrea Waggener & Kelly Parra|Tales from The Pizzaplex : Submechanofobia (IV)|Horror|Feeria Young|327|NIE|Ksi¹¿ka
+166|Scott Cawthon & Andrea Waggener|Tales from The Pizzaplex : Bobbiedoty (V)|Horror|Feeria Young|312|NIE|Ksi¹¿ka
+167|Scott Cawthon & Andrea Waggener & Kelly Parra|Tales from The Pizzaplex : Nexie (VI)|Horror|Feeria Young|310|NIE|Ksi¹¿ka
+168|Scott Cawthon & Kira Breed-Wrisley & Claudia Schröder|Srebrne Oczy - Komiks (I)|Horror|Feeria Young|191|TAK|Komiks
+169|Scott Cawthon & Kira Breed-Wrisley & Claudia Aguirre|Zwyrodniali - Komiks (II)|Horror|Feeria Young|191|TAK|Komiks
+170|Scott Cawthon & Kira Breed-Wrisley & Diana Camero|Czwarty Schowek- Komiks (III)|Horror|Feeria Young|192|TAK|Komiks
+171|Paulina Hendel|¯niwiarz : Pusta Noc (I)|Fantastyka|Czwarta Strona|431|TAK|Ksi¹¿ka
+172|Paulina Hendel|¯niwiarz : Czerwona S³oñce (II)|Fantastyka|Czwarta Strona|431|TAK|Ksi¹¿ka
+173|Paulina Hendel|¯niwiarz : Trzynasty Ksiê¿yc (III)|Fantastyka|Czwarta Strona|447|TAK|Ksi¹¿ka
+174|Paulina Hendel|¯niwiarz : Droga Dusz (IV)|Fantastyka|Czwarta Strona|496|TAK|Ksi¹¿ka
+175|Paulina Hendel|¯niwiarz : Czarny Œwit (V)|Fantastyka|Czwarta Strona|506|TAK|Ksi¹¿ka
+176|Aleksander Kamiñski|Kamienie na szaniec|Powieœæ Historyczna|Nasza Ksiêgarnia|255|TAK|Ksi¹¿ka
+177|Antoine de Saint-Exupéry|Ma³y Ksi¹¿ê|Bajki|IBIS|80|TAK|Ksi¹¿ka
+178|Patrycja Szulc|Ksiêga ma³ego patrioty|Kolorowanki|Sfinks|97|TAK|Ksi¹¿ka
+179|Boles³aw Prus|Katarynka|Opowiadanie|GREG|16|TAK|Ksi¹¿ka
+180|Frances Eliza Burnett|Tajemniczy Ogród|Powieœæ|IBIS|232|TAK|Ksi¹¿ka
+181|Witold Vargas & Pawe³ Zych|Bestiariusz S³owiañski - Czêœæ pierwsza i druga|Encyklopedia|BOSZ|440|TAK|Ksi¹¿ka
+182|Andrzej Maleszka|Magiczne Drzewo : Czerwone Krzes³o (I)|Powieœæ|Znak|289|TAK|Ksi¹¿ka
+183|Andrzej Maleszka|Magiczne Drzewo : Tajemnica Mostu (II)|Powieœæ|Znak|262|TAK|Ksi¹¿ka
+184|Andrzej Maleszka|Magiczne Drzewo : Olbrzym (III)|Powieœæ|Znak|467|TAK|Ksi¹¿ka
+185|Andrzej Maleszka|Magiczne Drzewo : Pojedynek (IV)|Powieœæ|Znak|435|TAK|Ksi¹¿ka
+186|Andrzej Maleszka|Magiczne Drzewo : Gra (V)|Powieœæ|Znak|455|TAK|Ksi¹¿ka
+187|Andrzej Maleszka|Magiczne Drzewo : Cieñ Smoka (VI)|Powieœæ|Znak|516|TAK|Ksi¹¿ka
+188|Andrzej Maleszka|Magiczne Drzewo : Œwiat Ogromnych (VII)|Powieœæ|Znak|470|TAK|Ksi¹¿ka
+189|Andrzej Maleszka|Magiczne Drzewo : Inwazja (VIII)|Powieœæ|Znak|441|TAK|Ksi¹¿ka
+190|Adam Mickiewicz|Dziady|Dramat|IBIS|352|TAK|Ksi¹¿ka
+191|Daniel Defoe|Klub Podró¿nika - Przypadki Robinsona Kruzoe (I)|Powieœæ|Olesiejuk|221|TAK|Ksi¹¿ka
+192|Alfred Szklarski|Klub Podró¿nika - Tomek w krainie kangurów (II)|Powieœæ|Olesiejuk|260|TAK|Ksi¹¿ka
+193|Robert Louis Stevenson|Klub Podró¿nika - Wyspa Skarbów (III)|Powieœæ|Olesiejuk|283|TAK|Ksi¹¿ka
+194|Cube Kid|Pamiêtnik 8-bitowego wojownika (I)|Fantastyka|Jaguar|252|TAK|Komiks
+195|Cube Kid|Pamiêtnik 8-bitowego wojownika : Od ziarna do miecza (II)|Fantastyka|Jaguar|189|TAK|Komiks
+196|Cube Kid|Pamiêtnik 8-bitowego wojownika : Craftingowe Sojusze (III)|Fantastyka|Jaguar|259|TAK|Komiks
+197|Cube Kid|Pamiêtnik 8-bitowego wojownika : Œcie¿ka Diamentu (IV)|Fantastyka|Jaguar|251|TAK|Komiks
+198|Cube Kid|Pamiêtnik 8-bitowego wojownika : Tryb Misji (V)|Fantastyka|Jaguar|271|TAK|Komiks
+199|Cube Kid|Pamiêtnik 8-bitowego wojownika : KuŸnia Przeznaczenia (VI)|Fantastyka|Jaguar|291|TAK|Komiks
+200|Craig Jelley|Minecraft - Podrêcznik U¿ytkowania Czerwonego Kamienia|Podrêcznik|Egmont|96|TAK|Ksi¹¿ka
+201|Stephanie Milton|Minecraft - Podrêcznik Podboju Minecrafta|Podrêcznik|Egmont|96|TAK|Ksi¹¿ka
+202|Craig Jelley|Minecraft - Podrêcznik Kreatywnego Budowania|Podrêcznik|Egmont|96|TAK|Ksi¹¿ka
+203|Stephanie Milton|Minecraft - Podrêcznik Podboju Netheru i Kresu|Podrêcznik|Egmont|80|TAK|Ksi¹¿ka
+204|Antoni Dudek|Historia Polityczna Polski 1989-2023|Historyczne|Wydawnictwo Naukowe SCHOLAR|783|NIE|Ksi¹¿ka
+205|S³awomir Cenckiewicz|Sprawa Lecha Wa³êsy|Historyczne|Zysk i S-ka|379|TAK|Ksi¹¿ka
+206|Marcin Batylda|WiedŸmin - Kompendium o œwiecie gier|Przewodnik|Agora|182|NIE|Ksi¹¿ka
+207|Antoni Dudek|Dudek o historii. Narodziny III RP.|Historyczne|Grupa Wydawnicza Foksal|334|TAK|Ksi¹¿ka
+208|Stanis³aw Michalkiewicz|Choroba Czerwonych Oczu|Felietony|Wydawnictwo Capital|308|NIE|Ksi¹¿ka
+209|Andrzej Sapkowski|Narrenturm (I)|Fantastyka|NOWA|639|NIE|Ksi¹¿ka
+210|Andrzej Sapkowski|Bo¿y bojownicy (II)|Fantastyka|NOWA|635|NIE|Ksi¹¿ka
+211|Andrzej Sapkowski|Lux perpetua (III)|Fantastyka|NOWA|607|NIE|Ksi¹¿ka
+212|Dmitrij G³uchowski|Outpost (I)|Postapo|Insignis|348|TAK|Ksi¹¿ka
+213|Dmitrij G³uchowski|Outpost 2 (II)|Postapo|Insignis|346|TAK|Ksi¹¿ka
