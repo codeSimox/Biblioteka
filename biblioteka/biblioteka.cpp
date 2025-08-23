@@ -102,6 +102,11 @@ int string2int(string stringi)
     return stoi(stringi);
 }
 
+int string2float(string stringi2)
+{
+    return stof(stringi2);
+}
+
 int sumastron(int llinii)
 {
     int x2 = 0;
@@ -150,6 +155,7 @@ void gatunek(float llinii, int tryb)
     int Muzyka = 0;
     int Felietony = 0;
     int Kryminalne = 0;
+    int Religia = 0;
 
     int prog = 0;
     while (x4 < llinii)
@@ -298,6 +304,14 @@ void gatunek(float llinii, int tryb)
                 ostatnie.push_back(x4);
             }
         }
+        if (ekstrakcja(x4, 3) == "Religia")
+        {
+            Religia = Religia + 1;
+            if (tryb == 19)
+            {
+                ostatnie.push_back(x4);
+            }
+        }
 
         float progress = (x4 / (float)llinii) * 100; // aktualny procent ładowania
 
@@ -314,46 +328,25 @@ void gatunek(float llinii, int tryb)
     if (tryb == 0)
     {
         cout << "\n"
-            << setw(12) << left << "1. Sci-Fi"
-            << setw(16) << left << "2. Historyczne"
-            << setw(22) << left << "3. Popularno-Naukowe"
-            << setw(12) << left << "4. Horror"
-            << setw(22) << left << "5. Literatura Faktu"
-            << setw(12) << left << "6. Postapo"
-            << setw(16) << left << "7. Fantastyka"
-            << setw(12) << left << "8. Poradnik"
-            << setw(12) << left << "9. Słownik"
-            << setw(16) << left << "10. Podręcznik"
-            << setw(18) << left << "11. Zbiór Zadań"
-            << setw(20) << left << "12. Encyklopedia"
-            << setw(20) << left << "13. Psychologiczne"
-            << setw(12) << left << "14. Bajki"
-            << setw(16) << left << "15. Przewodnik"
-            << setw(12) << left << "16. Muzyka"
-            << setw(14) << left << "17. Felietony"
-            << setw(22) << left << "18. Kryminalne"
-            << "\n";
-
-        cout << string(280, '-') << "\n"; // linia oddzielająca
-
-        cout << setw(12) << left << SciFi
-            << setw(16) << left << Historyczne
-            << setw(22) << left << PopularnoNaukowe
-            << setw(12) << left << Horror
-            << setw(22) << left << LiteraturaFaktu
-            << setw(12) << left << Postapo
-            << setw(16) << left << Fantastyka
-            << setw(12) << left << Poradnik
-            << setw(12) << left << Słownik
-            << setw(16) << left << Podręcznik
-            << setw(18) << left << ZbiorZadan
-            << setw(20) << left << Encyklopedia
-            << setw(20) << left << Psychologiczne
-            << setw(12) << left << Bajki
-            << setw(16) << left << Przewodnik
-            << setw(12) << left << Muzyka
-            << setw(14) << left << Felietony
-            << setw(22) << left << Kryminalne
+            << "\n1. Sci-Fi             |" << SciFi
+            << "\n2. Historyczne        |" << Historyczne
+            << "\n3. Popularno-Naukowe  |" << PopularnoNaukowe
+            << "\n4. Horror             |" << Horror
+            << "\n5. Literatura Faktu   |" << LiteraturaFaktu
+            << "\n6. Postapo            |" << Postapo
+            << "\n7. Fantastyka         |" << Fantastyka
+            << "\n8. Poradnik           |" << Poradnik
+            << "\n9. Słownik            |" << Słownik
+            << "\n10. Podręcznik        |" << Podręcznik
+            << "\n11. Zbiór Zadań       |" << ZbiorZadan
+            << "\n12. Encyklopedia      |" << Encyklopedia
+            << "\n13. Psychologiczne    |" << Psychologiczne
+            << "\n14. Bajki             |" << Bajki
+            << "\n15. Przewodnik        |" << Przewodnik
+            << "\n16. Muzyka            |" << Muzyka
+            << "\n17. Felietony         |" << Felietony
+            << "\n18. Kryminalne        |" << Kryminalne
+            << "\n19. Religia           |" << Religia
             << "\n";
     }
 }
@@ -591,30 +584,67 @@ void przeczytane(float llinii, int tryb)
     }
 }
 
-void sortowaniestron(int llinii)
+void sortowanie(int llinii, int rodzaj)
 {
     vector<vector<int>> rozsortowane;
+    vector<vector<float>> rozsortowanefloat;
     int i = 0;
 
-    while (i < llinii)
+    if (rodzaj == 1)
     {
-        int id = string2int(ekstrakcja(i, 0));
-        int strony = string2int(ekstrakcja(i, 5));
-        rozsortowane.push_back({ id, strony });              // rozsortowane = {ID, l. stron}, {ID, l.stron}...
-        i = i + 1;
+        while (i < llinii)
+        {
+            int id = string2int(ekstrakcja(i, 0));
+            int strony = string2int(ekstrakcja(i, 5));
+            rozsortowane.push_back({ id, strony });              // rozsortowane = {ID, l. stron}, {ID, l.stron}...
+            i = i + 1;
+        }
+
+        sort(rozsortowane.begin(), rozsortowane.end(),
+            [](const vector<int>& a, const vector<int>& b) {
+                return a[1] > b[1];
+            });
+
+        ostatnie.clear();
+        i = 0;
+        while (i < rozsortowane.size())
+        {
+            ostatnie.push_back(rozsortowane[i][0]);
+            i++;
+        }
     }
-
-    sort(rozsortowane.begin(), rozsortowane.end(),
-        [](const vector<int>& a, const vector<int>& b) {
-            return a[1] > b[1];
-        });
-
-    ostatnie.clear();
-    i = 0;
-    while (i < rozsortowane.size())
+    if (rodzaj == 2)
     {
-        ostatnie.push_back(rozsortowane[i][0]);
-        i++;
+        while (i < llinii)
+        {
+            float id = string2int(ekstrakcja(i, 0));
+            string ocena = ekstraktordodatku(i, 3);
+            float floatocena = 0;
+            if (ocena == "nieocenione")
+            {
+                ocena = "-1";
+                floatocena = string2float(ocena);
+            }
+            else
+            {
+                floatocena = string2float(ocena);
+            }
+            rozsortowanefloat.push_back({ id, floatocena });
+            i = i + 1;
+        }
+
+        sort(rozsortowanefloat.begin(), rozsortowanefloat.end(),
+            [](const vector<float>& a, const vector<float>& b) {
+                return a[1] > b[1];
+            });
+
+        ostatnie.clear();
+        i = 0;
+        while (i < rozsortowanefloat.size())
+        {
+            ostatnie.push_back(rozsortowanefloat[i][0]);
+            i++;
+        }
     }
 }
 
@@ -642,7 +672,7 @@ int main()
     cout << "\tBBBBBBB     III   BBBBBBB   LL        III   OO     OO    TTT    EEEEEEE  KK KK   AAAAAAAAA\n";
     cout << "\tBB    BB    III   BB    BB  LL        III   OO     OO    TTT    EE       KK  KK  AA     AA\n";
     cout << "\tBB    BB    III   BB    BB  LL        III   OO     OO    TTT    EE       KK  KK  AA     AA\n";
-    cout << "\tBBBBBBB    IIIII  BBBBBBB   LLLLLLL  IIIII   OOOOOOO     TTT    EEEEEEE  KK  KK  AA     AA v1.3\n";
+    cout << "\tBBBBBBB    IIIII  BBBBBBB   LLLLLLL  IIIII   OOOOOOO     TTT    EEEEEEE  KK  KK  AA     AA v1.4\n";
 
     cout << "\n\n" << endl;
 
@@ -698,6 +728,9 @@ start:
                 << "\n";
         }
         cout << "\n";
+
+        powrotw0:
+
         int w0;
         cout << "\nWybierz opcję:\t[1/2/3]\n\n1 - Ustawienia sortowania\t 2 - Szczegóły\t\t 0 - Powrót" << endl;
         cin >> w0;
@@ -709,13 +742,13 @@ start:
         {
             punktsortu:
             cout << "\nWybierz opcję sortowania:" << endl;
-            cout << "1 - ID\t 2 - Długość\t 0 - Powrót" << endl;
+            cout << "1 - ID\t 2 - Długość\t 3 - Ocena\t\t 0 - Powrót" << endl;
             int w4;
             cin >> w4;
 
             if (w4 == 0)
             {
-                goto start;
+                goto powrotw0;
             }
             if (w4 == 1)
             {
@@ -735,7 +768,11 @@ start:
             }
             if (w4 == 2)
             {
-                sortowaniestron(llinii);
+                sortowanie(llinii, 1);
+            }
+            if (w4 == 3)
+            {
+                sortowanie(llinii, 2);
             }
 
 
@@ -772,7 +809,7 @@ start:
         int w1;
         opcja3:
 
-        cout << "\n\nWybierz kategorię.\t(1-17)" << endl;
+        cout << "\n\nWybierz kategorię.\t(1-19)" << endl;
         cout << "Aby wrócić, wpisz >>0<<.\n" << endl;
         cin >> w1;
         if (w1 == 0)
@@ -1653,7 +1690,7 @@ start:
     }
     if (wybor == 10)
     {
-        cout << "\nWyświetl wszystko - wyświetla tabelę zawierającą całe zbiory zawarte w bibliotece. Można stąd przejść bezpośrednio do opcji 5." << endl;
+        cout << "\nWyświetl wszystko - wyświetla tabelę zawierającą całe zbiory zawarte w bibliotece. Można stąd przejść bezpośrednio do opcji 5, lub ustawić opcje sortowania." << endl;
         cout << "\nAnaliza ilości stron - wyświetla różne, matematyczne statystyki związane ze stronami zebranych książek." << endl;
         cout << "\nPodział gatunkowy - ukazuje tabelę ilościową zbiorów z podziałem na gatunki literackie. \nDzięki podfunkcji pozwala na zobaczenie tabeli monogatunkowej." << endl;
         cout << "\nRodzaj fizyczny - ukazuję podobną do poprzedniej tabelę z podziałem na fizyczne właściwości literatury. \nZawiera też równie podobną podfunkcje co poprzednia opcja." << endl;
@@ -1668,8 +1705,9 @@ start:
         cout << "UWAGA! >>plik.txt<<, oraz >>dodatek.txt<< MUSZĄ BYĆ FORMATOWANE W ANSI!" << endl;
         cout << "\n!!!UWAGA!!! POWIĄZANIA W OPCJI 5 MUSZĄ BYĆ USTAWIONE RĘCZNIE W KODZIE!" << endl;
         cout << "\nPlik >>dodatek.txt<< zawiera następujące informacje:\n\t[ID/komentarz/szczegółowe informacje/ocena autora programu/data ostatniego ukończenia(dzień|miesiąc|rok)]" << endl;
+        cout << "\nJeśli konsola wyświetla tabele niemieszczące się w jej szerokości zalecam zmniejszenie czcionki w opcjach." << endl;
 
-        cout << "\n\nNaciśnij >E< aby wyjść.";
+        cout << "\n\nWprowadź >E< aby wyjść.";
         string xd;
         cin >> xd;
         goto start;
